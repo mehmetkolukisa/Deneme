@@ -1,0 +1,7 @@
+E:\Mehmet\ApplicationEx\GitHubDeneme\Deneme\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Mehmet\ApplicationEx\GitHubDeneme\Deneme\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Mehmet\ApplicationEx\GitHubDeneme\Deneme\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Mehmet\ApplicationEx\GitHubDeneme\Deneme\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\Mehmet\ApplicationEx\GitHubDeneme\Deneme\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Mehmet\ApplicationEx\GitHubDeneme\Deneme\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Mehmet\ApplicationEx\GitHubDeneme\Deneme\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
