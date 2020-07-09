@@ -10,7 +10,7 @@ namespace ConsoleApp
   {
     static void Main(string[] args)
     {
-      Console.Write("Yazdır");
+      Console.Write("Yazdırs");
       Console.ReadKey();
     }
   }
